@@ -1,5 +1,5 @@
 # jason
-`
+```
 import j from 'jason';
 
 const obj = j.a(
@@ -20,4 +20,4 @@ const obj = j.a(
       }
     }
   };
-`
+```
